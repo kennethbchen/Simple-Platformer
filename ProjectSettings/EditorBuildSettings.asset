@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Test Scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Test Scene 2.unity
+    guid: 45b5e09dac486774e8ead970b2abd94c
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 9a5f20f0b7afd0c45b4a02c6a1d6f348
+  - enabled: 1
+    path: Assets/Scenes/Levels/1.unity
+    guid: f72607fa2d99c6749b93a3a5351a69bf
+  - enabled: 1
+    path: Assets/Scenes/Levels/2.unity
+    guid: 2ef569b489b7c104fb62502d78a639dc
+  - enabled: 1
+    path: Assets/Scenes/Levels/3.unity
+    guid: a03c4968c2906024fb24a7bff30a2ef7
+  - enabled: 1
+    path: Assets/Scenes/Levels/4.unity
+    guid: 6783daddb9b8e91428b54b2f46002c74
+  - enabled: 1
+    path: Assets/Scenes/Levels/5.unity
+    guid: 94aa7bbe2b8afe046b48a1296670e6b9
+  - enabled: 1
+    path: Assets/Scenes/Levels/The really hard one.unity
+    guid: 8152252cd71b0d842bdafec8bd63a1f7
+  m_configObjects: {}
